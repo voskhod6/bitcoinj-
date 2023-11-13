@@ -84,7 +84,7 @@ Buildah 1.26+, Podman 4.1+ and Docker (with BuildKit) are supported. We tested v
 
 These are found in the `examples` module.
 
-### Where next?
+
 
 Now you are ready to https://bitcoinj.github.io/getting-started[follow the tutorial].
 
